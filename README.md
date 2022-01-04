@@ -1,3 +1,4 @@
+This is a forked version from MengZephyr/Deep-Detail-Enhancement-for-Any-Garment for more details to run this code. 
 # Deep-Detail-Enhancement-for-Any-Garment
 
 ## Introduction
